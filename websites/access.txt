@@ -1,0 +1,7 @@
+homepageurl: https://as1.v.je/index.php
+adminuser: bipin
+adminpass: 123
+adminemail: bipinbasnet@gmail.com
+nonadminuser: bipin
+nonadminpassword: 1234
+nonadminemail:bipinbasnet567@gmail.com
